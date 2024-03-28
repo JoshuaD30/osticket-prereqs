@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WTFuH6w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 after you install IIS PHP MANAGER and rewrite module and  VC_redist.x86.exe.
